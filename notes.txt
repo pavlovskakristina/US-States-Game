@@ -1,0 +1,24 @@
+###     What I learned during this project    ###
+
+1. Getting mouse click coordinates:
+
+def get_mouse_click_coor(x, y):
+    print(x, y)
+    pass
+
+turtle.onscreenclick(get_mouse_click_coor)
+turtle.mainloop()
+
+
+
+2. How to set the picture as the background (Turtle library):
+image = "blank_states_img.gif"
+screen.addshape(image)
+turtle.shape(image)
+
+
+
+3. Reading data from .csv:
+import pandas
+data = pandas.read_csv("link to csv")
+print(data["column name"])
