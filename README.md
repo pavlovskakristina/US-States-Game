@@ -1,6 +1,7 @@
 # US-States-Game
 A fun and educational Python game where you guess all 50 U.S. states on a blank map. Correct answers appear in their geographic locations, and at the end you get a list of states you missed to help you learn them better.
-🎮 How it works
+
+**🎮 How it works**
 
 A blank U.S. map is displayed.
 
@@ -12,7 +13,7 @@ The game keeps track of your score.
 
 When you quit the game, a CSV file (states_to_learn.csv) is generated with all the states you missed — perfect for learning!
 
-🛠️ Technologies used
+**🛠️ Technologies used**
 
 Python
 
@@ -20,7 +21,7 @@ Turtle Graphics
 
 Pandas
 
-📌 Features
+**📌 Features**
 
 Interactive guessing with real-time map updates
 
@@ -30,6 +31,6 @@ Automatic list of missing states for further learning
 
 Simple and educational
 
-🚀 How to run
+**🚀 How to run**
 
 Clone this repository:
