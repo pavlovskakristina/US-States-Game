@@ -26,7 +26,7 @@ A fun and educational Python game where you guess all 50 U.S. states on a blank 
 
 1. Clone this repository:
 
-      git clone https://github.com/yourusername/us-states-game.git
+      git clone https://github.com/pavlovskakristina/us-states-game.git
 
       cd us-states-game
 
